@@ -1,9 +1,8 @@
-### Hi there 👋
+![github-header-image](https://github.com/Batyrq14/Batyrq14/assets/122871602/91f93b12-db60-4eca-8d8d-c607f903451f)
 
-<h1 align="center">Hi 👋, I'm Batyrkhan Utegenov</h1>
-<h3 align="center">I'm student of KBTU</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batyrq14&label=Profile%20views&color=0e75b6&style=flat" alt="batyrq14" /> </p>
+<p align="left"> <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="batyrq14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/batyrutn" target="blank"><img src="https://img.shields.io/twitter/follow/batyrutn?logo=twitter&style=for-the-badge" alt="batyrutn" /></a> </p>
 
