@@ -1,8 +1,6 @@
 ![github-header-image](https://github.com/Batyrq14/Batyrq14/assets/122871602/91f93b12-db60-4eca-8d8d-c607f903451f)
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/fast-green-stream-coding-kjuq7exuta2jv16v.gif">
-
-<p align="left"> <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="batyrq14" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <p align="left"> <a href="https://twitter.com/batyrutn" target="blank"><img src="https://img.shields.io/twitter/follow/batyrutn?logo=twitter&style=for-the-badge" alt="batyrutn" /></a> </p>
 
