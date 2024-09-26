@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/Batyrq14/Batyrq14/assets/122871602/91f93b12-db60-4eca-8d8d-c607f903451f)
-
 # 💫 About Me:
 🌱 I’m currently learning iOS Dev <br>⚡ Fun fact I am virtuous and funny
 
