@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning iOS Dev <br>⚡ Fun fact I am virtuous and funny
+🌱 I’m currently learning Advanced Android Dev <br>⚡ Fun fact I am virtuous and funny
 
 
 ## 🌐 Socials:
