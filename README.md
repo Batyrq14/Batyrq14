@@ -32,4 +32,4 @@
 
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/Batyrq14/Batyrq14/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Batyrq14/Batyrq14/blob/output/github-snake-dark.svg)
