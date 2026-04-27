@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batyrkhan-utegenov-818a47258/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/batyrutn) 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/batyr314)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/bytebyhero)
 
 
 # 📊 GitHub Stats:
