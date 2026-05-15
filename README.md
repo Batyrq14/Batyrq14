@@ -1,27 +1,44 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batyrkhan-utegenov-818a47258/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/batyrutn) 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/bytebyhero)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Batyrkhan+%F0%9F%91%8B;Developer+%7C+Tinkerer+%7C+Linux+%2B+Windows+%2B+macOS;Always+breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+  </a>
+</h1>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=batyrq14&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=batyrq14&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batyrq14&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/batyrkhan-utegenov-818a47258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/batyrutn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://t.me/bytebyhero"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=batyrq14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/batyrutn2004@gmail.com) 
+### 🛠️ Tech I work with
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,linux,bash,git,vscode,ubuntu&perline=11" />
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=batyrq14&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=batyrq14&theme=tokyonight&hide_border=true" />
+</p>
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/Batyrq14/Batyrq14/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyrq14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=batyrq14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <img src="https://github.com/Batyrq14/Batyrq14/blob/output/github-snake-dark.svg" />
+</p>
