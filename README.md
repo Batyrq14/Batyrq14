@@ -1,12 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Batyrkhan+%F0%9F%91%8B;Developer+%7C+Tinkerer+%7C+Linux+%2B+Windows+%2B+macOS;Always+breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+am+Batyr;Currently+learning+PHP+%2B+Laravel;Currently+learning+Android+Studio" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/batyrkhan-utegenov-818a47258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/batyrutn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/bytebyhero"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
   <a href="https://t.me/bytebyhero"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
@@ -15,7 +14,7 @@
 ### 🛠️ Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,linux,bash,git,vscode,ubuntu&perline=11" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,androidstudio,kotlin,java,linux,bash,apple,docker,git,vscode&perline=11" />
 </p>
 
 ---
