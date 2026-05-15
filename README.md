@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+am+Batyr;Currently+learning+PHP+%2B+Laravel;Currently+learning+Android+Studio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+am+Batyr" alt="Typing SVG" />
   </a>
 </h1>
+
 
 <p align="center">
   <a href="https://twitter.com/bytebyhero"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
@@ -16,6 +17,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,androidstudio,kotlin,java,linux,bash,apple,docker,git,vscode&perline=11" />
 </p>
+
+<p align="center"><sub>Also exploring: Claude · Gemini · ChatGPT · DeepSeek</sub></p>
 
 ---
 
